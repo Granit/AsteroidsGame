@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asteroids Game</string>
+    <string name="game">Игра</string>
+    <string name="tutorial">Обучение</string>
+    <string name="options">Настройки</string>
+    <string name="exit">Выход</string>
+    <string name="result">Ваш счет: %s.</string>
+    <string name="again">Еще раз</string>
+</resources>
